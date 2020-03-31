@@ -6,7 +6,7 @@
 
 A quick test to play with voronoi diagrams.
 
-![Screenshot in action](https://raw.githubusercontent.com/mbelak/Voronoi/master/voronoi2.PNG)
+![Screenshot in action](voronoi2.PNG)
 
 ## How To Start
 
